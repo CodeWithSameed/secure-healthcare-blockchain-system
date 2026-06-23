@@ -78,7 +78,7 @@ Healthcare records contain sensitive information that requires strong security a
 
 **Sameed Ahmad Sharief**
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/sameed-ahmad2004 
 - GitHub: https://github.com/Codewithsameed
 
 ## 📄 License
